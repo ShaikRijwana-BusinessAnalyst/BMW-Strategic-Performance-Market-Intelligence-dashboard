@@ -141,17 +141,8 @@ X1's 0.69 cannibalization index in India is not a sales execution failure — it
 
 ## 🎬 Video Walkthrough
 
-**Duration:** 2 minutes | **Format:** Strategic Board Briefing
 
-[![BMW Dashboard Walkthrough](images/video_thumbnail.png)](YOUR_VIDEO_LINK_HERE)
-
-The walkthrough follows a **five-act diagnostic structure**:
-
-- **Act 1 (0:00–0:20):** The strategic paradox — $70.55B revenue with a 0.64 Strategic Risk score
-- **Act 2 (0:20–0:50):** DAX architecture — how weighted intelligence replaces flat aggregation
-- **Act 3 (0:50–1:30):** Visual deep-dive — surgical purpose behind each chart selection
-- **Act 4 (1:30–2:00):** The 'Aha' moment — EV Velocity cross-referenced against Cannibalization Matrix reveals the 2026 convergence risk
-- **Closing:** Three-lever strategic roadmap — portfolio rationalization, velocity catalyst, feature ROI optimization
+[![ https://drive.google.com/file/d/1r9jgmJcZpDB_hYgIT4F8fSy1iyCDD-ew/view?usp=drivesdk]
 
 ---
 
